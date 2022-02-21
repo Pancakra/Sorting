@@ -29,12 +29,13 @@ void printArray(int array[], int size)
 
 int main() 
 {
-    int data[10],a,n=10;
-	printf("masukkan 10 Angka yang kamu mau! : ");
+  int data[10],a,n=10;
+  printf("Selamat datang di Bubble Sorting!\n\n");
+  printf("masukkan 10 Angka yang kamu mau! : ");
 	for(a=0;a<n;a++)
-		scanf("%d",&data[a]);
-    int size = sizeof(data) / sizeof(data[0]);
-    bubbleSort(data, size);
-    printf("Data setelah disusun dari kecil ke besar (Ascending): \n");
-    printArray(data, size);
+	scanf("%d",&data[a]);
+  int size = sizeof(data) / sizeof(data[0]);
+  bubbleSort(data, size);
+  printf("Data setelah disusun dari kecil ke besar (Ascending): \n");
+  printArray(data, size);
 }
