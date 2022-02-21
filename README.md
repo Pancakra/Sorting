@@ -15,7 +15,7 @@ Merupakan kombinasi antara sorting dan searching. Untuk setiap proses, akan dica
 
 Output : 
 
-## ![Challange] (https://github.com/Pancakra/Sorting/tree/main/Challange)
+![Challange] (https://github.com/Pancakra/Sorting/tree/main/Challange)
 + Selection Sorting
 + Insertion Sorting
 
