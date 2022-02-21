@@ -1,9 +1,5 @@
 # Sorting 
 
-## Challange (https://github.com/Pancakra/Sorting/tree/main/Challange)
-+ Selection Sorting
-+ Insertion Sorting
-
 ## Bubble Sorting (https://github.com/Pancakra/Sorting/blob/main/Bubble%20Sorting.c)
 Bubble Sort mengurutkan data dengan cara membandingkan elemen sekarang dengan elemen berikutnya.
 
@@ -18,6 +14,10 @@ Output :
 Merupakan kombinasi antara sorting dan searching. Untuk setiap proses, akan dicari elemen-elemen yang belum diurutkan yang memiliki nilai terkecil atau terbesar akan dipertukarkan ke posisi yang tepat di dalam array.
 
 Output : 
+
+## [Challange] (https://github.com/Pancakra/Sorting/tree/main/Challange)
++ Selection Sorting
++ Insertion Sorting
 
 
 ### Source : 
