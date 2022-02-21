@@ -20,6 +20,7 @@ Output :
 + Insertion Sorting
 
 Output : 
+
 ![img](https://github.com/Pancakra/Sorting/blob/main/Challange/Insertion%20and%20selection%20Sorting.jpg)
 
 
